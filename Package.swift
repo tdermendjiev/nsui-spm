@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "NativeScript",
+            name: "TNSWidgets",
             path: "TNSWidgets.xcframework"
         )
     ]
